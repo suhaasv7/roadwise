@@ -1,0 +1,24 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {randomUUID} from 'node:crypto';
+process.loadEnvFile('.env.local');
+const base='http://localhost:3100';
+const bank=JSON.parse(fs.readFileSync('data/questions.json'));
+const sessions=[randomUUID(),randomUUID()];
+const headers=(s)=>({'Content-Type':'application/json',Cookie:`roadwise-session=${s}`,Origin:base});
+async function call(method,path,body,s=sessions[0]){return fetch(base+path,{method,headers:headers(s),body:body&&JSON.stringify(body)});}
+assert.equal((await call('POST','/api/quiz',{mode:'mixed',count:500})).status,400);
+assert.equal((await fetch(base+'/api/quiz',{method:'POST',headers:{'Content-Type':'application/json',Origin:'https://other.example'},body:JSON.stringify({mode:'mixed',count:10})})).status,403);
+const started=await call('POST','/api/quiz',{mode:'signs',count:10});assert.equal(started.status,200);const draft=await started.json();
+assert.equal(draft.questions.length,10);assert.ok(draft.questions.every(q=>q.category==='signs'&&!('answer'in q)));
+assert.equal((await call('PUT','/api/quiz',{id:draft.attempt.id,choices:Array(10).fill(99)})).status,400);
+assert.equal((await call('PUT','/api/quiz',{id:draft.attempt.id,choices:Array(10).fill(0)},sessions[1])).status,404);
+const choices=draft.questions.map(q=>bank.find(x=>x.id===q.id).answer);choices[0]=(choices[0]+1)%draft.questions[0].options.length;choices[1]=null;
+const finished=await call('PUT','/api/quiz',{id:draft.attempt.id,choices,score:10});assert.equal(finished.status,200);const result=await finished.json();assert.equal(result.score,8);assert.equal(result.status,'completed');
+const repeated=await call('PUT','/api/quiz',{id:draft.attempt.id,choices:Array(10).fill(0)});assert.equal((await repeated.json()).score,8);
+const history=await call('GET','/api/history');assert.equal((await history.json()).length,1);
+const otherHistory=await call('GET','/api/history',undefined,sessions[1]);assert.deepEqual(await otherHistory.json(),[]);
+const mistakes=await call('POST','/api/quiz',{mode:'mistakes',count:10});const retry=await mistakes.json();assert.equal(retry.questions.length,2);
+const direct=await fetch(process.env.SUPABASE_URL+'/rest/v1/roadwise_attempts?select=id',{headers:{apikey:process.env.SUPABASE_PUBLISHABLE_KEY}});assert.deepEqual(await direct.json(),[]);
+console.log('PASS: start, grading, skipped answers, idempotence, history, retry mistakes, cross-session isolation and direct REST RLS.');
+console.log('TEST_SESSION_IDS='+sessions.join(','));

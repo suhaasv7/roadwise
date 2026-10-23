@@ -1,0 +1,778 @@
+[
+  {
+    "id": "maharashtra-m1",
+    "label": "Straight ahead prohibited",
+    "image": "/signs/m1.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m1.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m2",
+    "label": "Vehicles Prohibited In One Direction",
+    "image": "/signs/m2.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m2.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m3",
+    "label": "Vehicles Prohibited In One Direction",
+    "image": "/signs/m3.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m3.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m4",
+    "label": "Vehicles Prohibited In Both Direction",
+    "image": "/signs/m4.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m4.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m5",
+    "label": "All Vehicles Prohibited",
+    "image": "/signs/m5.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m5.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m6",
+    "label": "Trucks Prohibited",
+    "image": "/signs/m6.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m6.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m7",
+    "label": "Cycles Prohibited",
+    "image": "/signs/m7.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m7.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m8",
+    "label": "Horns Prohibited",
+    "image": "/signs/m8.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m8.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m9",
+    "label": "Bullock carts and hand carts prohibited",
+    "image": "/signs/m9.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m9.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m10",
+    "label": "Bullock Carts Prohibited",
+    "image": "/signs/m10.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m10.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m11",
+    "label": "Tongas Prohibited",
+    "image": "/signs/m11.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m11.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m12",
+    "label": "Hand Carts Prohibited",
+    "image": "/signs/m12.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m12.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m13",
+    "label": "Pedestrians Prohibited",
+    "image": "/signs/m13.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m13.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m14",
+    "label": "Right Turn Prohibited",
+    "image": "/signs/m14.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m14.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m15",
+    "label": "Left Turn Prohibited",
+    "image": "/signs/m15.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m15.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m16",
+    "label": "U-Turn Prohibited",
+    "image": "/signs/m16.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m16.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m17",
+    "label": "Overtaking Prohibited",
+    "image": "/signs/m17.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m17.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m18",
+    "label": "No Parking",
+    "image": "/signs/m18.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m18.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m19",
+    "label": "No Parking and No Stopping",
+    "image": "/signs/m19.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m19.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m20",
+    "label": "Speed Limit",
+    "image": "/signs/m20.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m20.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m21",
+    "label": "Width Limit",
+    "image": "/signs/m21.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m21.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m22",
+    "label": "Height Limit",
+    "image": "/signs/m22.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m22.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m23",
+    "label": "Length Limit",
+    "image": "/signs/m23.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m23.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m24",
+    "label": "Load Limit",
+    "image": "/signs/m24.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m24.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m25",
+    "label": "Axle Load Limit",
+    "image": "/signs/m25.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m25.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m26",
+    "label": "Goods vehicles prohibited",
+    "image": "/signs/m26.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m26.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m27",
+    "label": "Restriction Ends Sign",
+    "image": "/signs/m27.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m27.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m28",
+    "label": "Compulsory Cycle track",
+    "image": "/signs/m28.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m28.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m29",
+    "label": "Compulsory Sound Horn",
+    "image": "/signs/m29.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m29.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m30",
+    "label": "Compulsory Keep Left",
+    "image": "/signs/m30.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m30.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m31",
+    "label": "Compulsory Turn Left",
+    "image": "/signs/m31.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m31.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m32",
+    "label": "Compulsory Turn Right Ahead",
+    "image": "/signs/m32.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m32.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m33",
+    "label": "Compulsory Ahead Or Turn Right",
+    "image": "/signs/m33.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m33.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m34",
+    "label": "Compulsory Ahead Or Turn Left",
+    "image": "/signs/m34.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m34.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m35",
+    "label": "Compulsory Ahead",
+    "image": "/signs/m35.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m35.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m36",
+    "label": "Stop",
+    "image": "/signs/m36.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m36.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-m37",
+    "label": "Give way",
+    "image": "/signs/m37.jpg",
+    "group": "Mandatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/m37.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-1",
+    "label": "Advance Direction",
+    "image": "/signs/i-1.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-1.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-2",
+    "label": "Destination Sign",
+    "image": "/signs/i-2.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-2.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-3",
+    "label": "Direction Sign",
+    "image": "/signs/i-3.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-3.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-4",
+    "label": "Re-Assurance Sign",
+    "image": "/signs/i-4.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-4.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-6",
+    "label": "Telephone Booth",
+    "image": "/signs/i-6.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-6.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-7",
+    "label": "Petrol Pump",
+    "image": "/signs/i-7.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-7.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-9",
+    "label": "Medical Facility",
+    "image": "/signs/i-9.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-9.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-10",
+    "label": "Eating Place",
+    "image": "/signs/i-10.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-10.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-11",
+    "label": "Light Refreshment",
+    "image": "/signs/i-11.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-11.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-12",
+    "label": "Resting Place",
+    "image": "/signs/i-12.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-12.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-13",
+    "label": "No Thorough Road",
+    "image": "/signs/i-13.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-13.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-14",
+    "label": "No Thorough Side Road",
+    "image": "/signs/i-14.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-14.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-15",
+    "label": "Park In This Direction",
+    "image": "/signs/i-15.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-15.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-16",
+    "label": "Parking Both Sides",
+    "image": "/signs/i-16.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-16.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-17",
+    "label": "Scooter & Motorcycle Stand",
+    "image": "/signs/i-17.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-17.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-18",
+    "label": "Cycle Stand",
+    "image": "/signs/i-18.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-18.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-19",
+    "label": "Taxi Stand",
+    "image": "/signs/i-19.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-19.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-20",
+    "label": "Auto Rickshaw Stand",
+    "image": "/signs/i-20.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-20.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-21",
+    "label": "Cycle Rickshaw Stand",
+    "image": "/signs/i-21.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-21.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-i-22",
+    "label": "Flood Gauge",
+    "image": "/signs/i-22.gif",
+    "group": "Informatory",
+    "asset_url": "https://transport.maharashtra.gov.in/Images/i-22.gif",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs1",
+    "label": "Right Hand Curve",
+    "image": "/signs/cs1.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs1.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs2",
+    "label": "Left Hand Curve",
+    "image": "/signs/cs2.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs2.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs3",
+    "label": "Right Hair Pin Bend",
+    "image": "/signs/cs3.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs3.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs4",
+    "label": "Left Hair Pin Bend",
+    "image": "/signs/cs4.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs4.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs5",
+    "label": "Right Reverse Bend",
+    "image": "/signs/cs5.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs5.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs6",
+    "label": "Left Reverse Bend",
+    "image": "/signs/cs6.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs6.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs7",
+    "label": "Steep Ascent",
+    "image": "/signs/cs7.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs7.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs8",
+    "label": "Steep Descent",
+    "image": "/signs/cs8.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs8.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs9",
+    "label": "Narrow Road Ahead",
+    "image": "/signs/cs9.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs9.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs10",
+    "label": "Road widens ahead",
+    "image": "/signs/cs10.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs10.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs11",
+    "label": "Narrow Bridge",
+    "image": "/signs/cs11.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs11.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs12",
+    "label": "Slippery Road",
+    "image": "/signs/cs12.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs12.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs13",
+    "label": "Loose Gravel",
+    "image": "/signs/cs13.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs13.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs14",
+    "label": "Cycle Crossing",
+    "image": "/signs/cs14.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs14.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs15",
+    "label": "Pedestrian Crossing",
+    "image": "/signs/cs15.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs15.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs16",
+    "label": "School Ahead",
+    "image": "/signs/cs16.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs16.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs17",
+    "label": "Men at Work",
+    "image": "/signs/cs17.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs17.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs18",
+    "label": "Cattle",
+    "image": "/signs/cs18.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs18.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs19",
+    "label": "Falling Rocks",
+    "image": "/signs/cs19.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs19.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs20",
+    "label": "Ferry",
+    "image": "/signs/cs20.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs20.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs21",
+    "label": "Cross Road",
+    "image": "/signs/cs21.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs21.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs22",
+    "label": "Gap in Median",
+    "image": "/signs/cs22.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs22.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs23",
+    "label": "Side Road Right",
+    "image": "/signs/cs23.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs23.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs24",
+    "label": "Side Road Left",
+    "image": "/signs/cs24.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs24.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs25",
+    "label": "Y-Intersection",
+    "image": "/signs/cs25.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs25.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs26",
+    "label": "Y-Intersection",
+    "image": "/signs/cs26.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs26.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs27",
+    "label": "Y-Intersection",
+    "image": "/signs/cs27.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs27.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs28",
+    "label": "T-Intersection",
+    "image": "/signs/cs28.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs28.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs29",
+    "label": "Staggered Intersection",
+    "image": "/signs/cs29.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs29.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs30",
+    "label": "Staggered Intersection",
+    "image": "/signs/cs30.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs30.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs31",
+    "label": "Major Road Ahead",
+    "image": "/signs/cs31.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs31.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs32",
+    "label": "Major Road Ahead",
+    "image": "/signs/cs32.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs32.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs33",
+    "label": "Roundabout",
+    "image": "/signs/cs33.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs33.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs34",
+    "label": "Dangerous Dip",
+    "image": "/signs/cs34.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs34.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs35",
+    "label": "Hump or Rough Road",
+    "image": "/signs/cs35.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs35.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs36",
+    "label": "Barrier Ahead",
+    "image": "/signs/cs36.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs36.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs37",
+    "label": "Unguarded railway crossing ahead (200 m)",
+    "image": "/signs/cs37.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs37.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs38",
+    "label": "Unguarded railway crossing ahead (50\u2013100 m)",
+    "image": "/signs/cs38.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs38.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs39",
+    "label": "Guarded railway crossing ahead (200 m)",
+    "image": "/signs/cs39.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs39.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  },
+  {
+    "id": "maharashtra-cs40",
+    "label": "Guarded railway crossing ahead (50\u2013100 m)",
+    "image": "/signs/cs40.jpg",
+    "group": "Cautionary",
+    "asset_url": "https://transport.maharashtra.gov.in/Site/Upload/Images/cs40.jpg",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs"
+  }
+]

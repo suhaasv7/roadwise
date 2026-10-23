@@ -1,0 +1,4672 @@
+[
+  {
+    "id": "parivahan-001",
+    "category": "rules",
+    "prompt": "Near a pedestrian crossing, when the pedestrians are waiting to cross the road, you should",
+    "options": [
+      "Sound horn and proceed",
+      "Slow down, sound horn and pass",
+      "Stop the vehicle and wait till the pedestrians cross the road and then proceed"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Stop the vehicle and wait till the pedestrians cross the road and then proceed” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 1, PDF page 1",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-003",
+    "category": "rules",
+    "prompt": "You are approaching a narrow bridge, another vehicle is about to enter the bridge from opposite side you should",
+    "options": [
+      "Increase the speed and try to cross the bridge as fast as possible",
+      "Put on the head light and pass the bridge",
+      "Wait till the other vehicle crosses the bridge and then proceed"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Wait till the other vehicle crosses the bridge and then proceed” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 3, PDF page 1",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-005",
+    "category": "rules",
+    "prompt": "When a vehicle is involved in an accident causing injury to any person",
+    "options": [
+      "Take the vehicle to the nearest police station and report the accident",
+      "Stop the vehicle and report to the police station",
+      "Take all reasonable steps to secure medical attention to the injured and report to the nearestpolice station within 24 hours"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Take all reasonable steps to secure medical attention to the injured and report to the nearestpolice station within 24 hours” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 5, PDF page 1",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-007",
+    "category": "rules",
+    "prompt": "On a road designated as one way",
+    "options": [
+      "Parking is prohibited",
+      "Overtaking is prohibited",
+      "Should not drive in reverse gear"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Should not drive in reverse gear” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 7, PDF page 1",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-009",
+    "category": "rules",
+    "prompt": "You can overtake a vehicle in front",
+    "options": [
+      "Through the right side of that vehicle",
+      "Through the left side",
+      "Through the left side, if the road is wide"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Through the right side of that vehicle” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 9, PDF page 1",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-015",
+    "category": "rules",
+    "prompt": "Validity of learners licence",
+    "options": [
+      "Till the driving licence is obtained",
+      "6 months",
+      "30 days"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “6 months” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 15, PDF page 2",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-017",
+    "category": "rules",
+    "prompt": "In a road without footpath, the pedestrians",
+    "options": [
+      "Should walk on the left side of the road",
+      "Should walk on the right side of the road",
+      "May walk on either side of the road"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Should walk on the right side of the road” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 17, PDF page 2",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-019",
+    "category": "rules",
+    "prompt": "Free passage should be given to the following types of vehicles",
+    "options": [
+      "Police vehicles.",
+      "Ambulance and fire service vehicles",
+      "Express, Super Express buses"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Ambulance and fire service vehicles” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 19, PDF page 2",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-021",
+    "category": "rules",
+    "prompt": "Vehicles proceeding from opposite direction should be allowed to pass through ….",
+    "options": [
+      "Your right side",
+      "Your left side",
+      "The convenient side"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Your right side” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 21, PDF page 2",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-025",
+    "category": "rules",
+    "prompt": "Driver of a motor vehicle shall drive through",
+    "options": [
+      "The right side of the road",
+      "The left side of the road",
+      "The Center of the road"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “The left side of the road” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 25, PDF page 2",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-027",
+    "category": "rules",
+    "prompt": "When a Vehicle is parked on the road side during night",
+    "options": [
+      "The vehicle should be locked",
+      "The person having licence to drive such a vehicle should be in the drivers seat",
+      "The park light shall remain lit"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “The park light shall remain lit” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 27, PDF page 3",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-029",
+    "category": "rules",
+    "prompt": "Fog lamps are used",
+    "options": [
+      "During night.",
+      "When there is mist.",
+      "When the opposite vehicle is not using dim light"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “When there is mist.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 29, PDF page 3",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-031",
+    "category": "rules",
+    "prompt": "Zebra lines are meant for..",
+    "options": [
+      "stopping vehicle.",
+      "pedestrians crossing",
+      "for giving preference to vehicle"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “pedestrians crossing” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 31, PDF page 3",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-033",
+    "category": "rules",
+    "prompt": "When an ambulance is approaching ..",
+    "options": [
+      "allow passage if there are no vehicles from front side.",
+      "no preference need be given.",
+      "the driver shall allow free passage by drawing to the side of the road"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “the driver shall allow free passage by drawing to the side of the road” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 33, PDF page 3",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-035",
+    "category": "rules",
+    "prompt": "Red traffic light indicates ..",
+    "options": [
+      "vehicle can proceed with caution.",
+      "stop the vehicle.",
+      "slow down."
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “stop the vehicle.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 35, PDF page 3",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-037",
+    "category": "rules",
+    "prompt": "Parking a vehicle in front of entrance to hospital",
+    "options": [
+      "Proper",
+      "Improper",
+      "Proper if NO PARKING sign is not provided"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Improper” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 37, PDF page 3",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-041",
+    "category": "rules",
+    "prompt": "Overtaking is prohibited in following circumstances",
+    "options": [
+      "when it is likely to cause inconvenience or danger to other traffic",
+      "when the vehicle in front is reducing speed",
+      "during night"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “when it is likely to cause inconvenience or danger to other traffic” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 41, PDF page 4",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-043",
+    "category": "rules",
+    "prompt": "Overtaking when approaching a bend",
+    "options": [
+      "is permissible",
+      "not permissible",
+      "is permissible with care"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “not permissible” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 43, PDF page 4",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-045",
+    "category": "rules",
+    "prompt": "Drunken driving",
+    "options": [
+      "allowed in private vehicles",
+      "allowed during night time",
+      "prohibited in all vehicles."
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “prohibited in all vehicles.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 45, PDF page 4",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-049",
+    "category": "rules",
+    "prompt": "Rear view mirror is used",
+    "options": [
+      "for seeing face",
+      "for watching the traffic approaching from behind",
+      "for seeing the back seat passenger"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “for watching the traffic approaching from behind” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 49, PDF page 4",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-051",
+    "category": "rules",
+    "prompt": "Boarding in and alighting from a vehicle while in motion",
+    "options": [
+      "Permitted in bus",
+      "permitted in autorikshaw",
+      "prohibited in all vehicles"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “prohibited in all vehicles” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 51, PDF page 4",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-055",
+    "category": "rules",
+    "prompt": "When fuel is filled in a vehicle",
+    "options": [
+      "shall not check air pressure",
+      "shall not smoke",
+      "shall not use any light of the vehicle"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “shall not smoke” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 55, PDF page 4",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-057",
+    "category": "rules",
+    "prompt": "Mobile phones shall not be used",
+    "options": [
+      "in Government offices",
+      "in Police Stations",
+      "While driving a vehicle"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “While driving a vehicle” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 57, PDF page 5",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-059",
+    "category": "rules",
+    "prompt": "Overtaking is prohibited",
+    "options": [
+      "When the road ahead is not clearly visible",
+      "when the road ahead is wide enough",
+      "when the road center is marked with white broken lines"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “When the road ahead is not clearly visible” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 59, PDF page 5",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-061",
+    "category": "rules",
+    "prompt": "The pedestrians shall not cross the road at sharp bends or very near to a stopped vehicle. Why?",
+    "options": [
+      "Inconvenience to other vehicles.",
+      "Inconvenience to other road users.",
+      "Drivers of other vehicles coming at a distance may not see persons crossing the road."
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Drivers of other vehicles coming at a distance may not see persons crossing the road.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 61, PDF page 5",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-065",
+    "category": "rules",
+    "prompt": "While turning to a road to the left of the road in which you are going, you should",
+    "options": [
+      "Show the left turn signal, drive to the center and turn to the left",
+      "Sound horn and turn to the left",
+      "Show the left turn signal, keep to the left side of the road and turn to the left."
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Show the left turn signal, keep to the left side of the road and turn to the left.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 65, PDF page 5",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-069",
+    "category": "rules",
+    "prompt": "While you are driving with the head light in high beam during night, a vehicle approaches from opposite direction, you will",
+    "options": [
+      "Proceed keeping to the left",
+      "Put the head light in dim and bright alternatively several times",
+      "Dim the head light till the vehicle passes"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Dim the head light till the vehicle passes” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 69, PDF page 5",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-075",
+    "category": "rules",
+    "prompt": "When you see the traffic sign School, you should",
+    "options": [
+      "Stop the vehicle, sound horn and proceed.",
+      "Slow down and proceed with caution",
+      "Sound horn continuously and proceed"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Slow down and proceed with caution” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 75, PDF page 6",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-079",
+    "category": "rules",
+    "prompt": "The Signal while taking U- turn",
+    "options": [
+      "Left turn signal",
+      "Right turn signal",
+      "Slow down signal"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Right turn signal” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 79, PDF page 6",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-085",
+    "category": "rules",
+    "prompt": "Before overtaking a vehicle, it should be ensured that …..",
+    "options": [
+      "No vehicle is approaching from behind",
+      "The road ahead is clearly visible and it is safe to overtake",
+      "The vehicle in front is turning left."
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “The road ahead is clearly visible and it is safe to overtake” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 85, PDF page 7",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-089",
+    "category": "rules",
+    "prompt": "When your vehicle is being overtaken, you should",
+    "options": [
+      "Stop your vehicle and let the vehicle to overtake",
+      "Increase the speed of your vehicle",
+      "Not obstruct the other vehicle from over taking"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Not obstruct the other vehicle from over taking” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 89, PDF page 7",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-091",
+    "category": "rules",
+    "prompt": "A place where parking is prohibited",
+    "options": [
+      "In front of a parked vehicle",
+      "On one-way road",
+      "On foot-path"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “On foot-path” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 91, PDF page 7",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-093",
+    "category": "rules",
+    "prompt": "The hand brake is to be used",
+    "options": [
+      "To reduce the speed",
+      "To apply sudden brake",
+      "To park a vehicle"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “To park a vehicle” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 93, PDF page 7",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-095",
+    "category": "rules",
+    "prompt": "More than two persons on a two wheeler is",
+    "options": [
+      "Allowed in unavoidable circumstances",
+      "Violation of law",
+      "Allowed when the traffic is less"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Violation of law” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 95, PDF page 7",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-097",
+    "category": "rules",
+    "prompt": "You want to overtake a vehicle near a hospital. You will",
+    "options": [
+      "Blow the horn continuously.",
+      "Not blow horn.",
+      "Blow the horn only intermittently."
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Not blow horn.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 97, PDF page 7",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-099",
+    "category": "rules",
+    "prompt": "Using unregistered vehicle in public place is",
+    "options": [
+      "Illegal",
+      "Legal",
+      "Legal if there is urgency"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Illegal” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 99, PDF page 7",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-103",
+    "category": "rules",
+    "prompt": "Overtaking is prohibited in the following case",
+    "options": [
+      "State highway",
+      "Panchayath roads.",
+      "Narrow bridge."
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Narrow bridge.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 103, PDF page 8",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-105",
+    "category": "rules",
+    "prompt": "If a person in charge of an animal apprehending that the animal may become unmanageable, request to stop a vehicle.",
+    "options": [
+      "The driver shall stop the vehicle.",
+      "The driver shall proceed, blowing the horns.",
+      "The driver shall reduce the speed."
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “The driver shall stop the vehicle.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 105, PDF page 8",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-107",
+    "category": "rules",
+    "prompt": "Parking prohibited in the following case ..",
+    "options": [
+      "road side.",
+      "where parking is permitted.",
+      "near traffic light."
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “near traffic light.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 107, PDF page 8",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-111",
+    "category": "rules",
+    "prompt": "When school buses are stopped for picking up or setting down students….",
+    "options": [
+      "Blow horn and proceed",
+      "proceed slowly and cautiously since there is chance of students suddenly crossing the road",
+      "No special care is required"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “proceed slowly and cautiously since there is chance of students suddenly crossing the road” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 111, PDF page 8",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-113",
+    "category": "rules",
+    "prompt": "When a blind person crosses the road holding White Cane….",
+    "options": [
+      "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
+      "Blow the horn and proceed",
+      "Slow down and proceed with caution"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 113, PDF page 8",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-115",
+    "category": "rules",
+    "prompt": "When a motor vehicle is involved in an accident…..",
+    "options": [
+      "shall report to the nearest police station within 24 hours",
+      "shall report to the nearest police station within 12 hours",
+      "shall report to the nearest police station within 48 hours"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “shall report to the nearest police station within 24 hours” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 115, PDF page 9",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-117",
+    "category": "rules",
+    "prompt": "When any property of a third party is damaged due to an accident….",
+    "options": [
+      "driver shall report to the nearest police station within 24 hours",
+      "driver shall report to the nearest police station within 7 days",
+      "need not report to any police station"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “driver shall report to the nearest police station within 24 hours” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 117, PDF page 9",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-119",
+    "category": "rules",
+    "prompt": "When the vehicle behind has begun to over take our vehicle….",
+    "options": [
+      "We shall not overtake another vehicle.",
+      "we can over take another vehicle.",
+      "we can overtake another vehicle blowing horn"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “We shall not overtake another vehicle.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 119, PDF page 9",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-123",
+    "category": "rules",
+    "prompt": "When our vehicle is being over taken….",
+    "options": [
+      "We shall not increase speed",
+      "We can increase speed",
+      "We can increase speed with due care"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “We shall not increase speed” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 123, PDF page 9",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-125",
+    "category": "rules",
+    "prompt": "Parking is prohibited in the following place…..",
+    "options": [
+      "Entrance of hospital",
+      "Left side of the road",
+      "Market area"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Entrance of hospital” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 125, PDF page 9",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-127",
+    "category": "rules",
+    "prompt": "Parking is prohibited in the following place…..",
+    "options": [
+      "blocking a fire hydrant",
+      "near a public well",
+      "left side of the road"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “blocking a fire hydrant” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 127, PDF page 9",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-141",
+    "category": "rules",
+    "prompt": "When you reach an intersection where there is no signal light or police man, you will…",
+    "options": [
+      "Give way to traffic approaching the intersection from other roads",
+      "Give proper signal, sound the horn and proceed",
+      "Give way to the traffic approaching the intersection on your right side and proceed after giving necessary signals."
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Give way to the traffic approaching the intersection on your right side and proceed after giving necessary signals.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 141, PDF page 11",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-143",
+    "category": "rules",
+    "prompt": "While you are approaching an intersection where the yellow signal light is blinking, you should….",
+    "options": [
+      "As there is no restriction, proceed at the same speed",
+      "Stop the vehicle and wait for the green light to appear",
+      "Slow down the vehicle and proceed only after ensuring that it is safe to do so"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Slow down the vehicle and proceed only after ensuring that it is safe to do so” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 143, PDF page 11",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-147",
+    "category": "rules",
+    "prompt": "While you are driving on gradient roads, you should….",
+    "options": [
+      "Give precedence to the vehicles coming down the hill",
+      "Give precedence to the vehicles going up the hill",
+      "Give precedence to the vehicles carrying heavy load"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Give precedence to the vehicles going up the hill” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 147, PDF page 11",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-151",
+    "category": "rules",
+    "prompt": "While a vehicle entering a main road from a branch road, the driver shall give preference…",
+    "options": [
+      "To the vehicles coming from the left",
+      "To the vehicles coming from the right",
+      "To all vehicles proceeding along the main road"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “To all vehicles proceeding along the main road” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 151, PDF page 11",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-155",
+    "category": "rules",
+    "prompt": "What is \"Tail-gating\" ?",
+    "options": [
+      "Driving too close behind a vehicle in a dangerousmanne r.",
+      "Keeping safe distance from the vehicle ahead regulating the speed proportionately.",
+      "Keeping a distance of atleast 7 metres from the vehicle ahead."
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Driving too close behind a vehicle in a dangerousmanne r.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 155, PDF page 12",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-160",
+    "category": "rules",
+    "prompt": "Road on which driving in reverse gear is prohibited…",
+    "options": [
+      "One-way road",
+      "Steep descending road",
+      "Steep ascending road"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “One-way road” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 160, PDF page 12",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-162",
+    "category": "rules",
+    "prompt": "You hold a learners licence for motor cycle ….",
+    "options": [
+      "You will drive when the traffic is less",
+      "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies",
+      "You will not carry any other person on the motor cycle except for the purpose of getting instructions from an instructor who holds a valid driving licence to drive motor cycle"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “You will not carry any other person on the motor cycle except for the purpose of getting instructions from an instructor who holds a valid driving licence to drive motor cycle” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 162, PDF page 12",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-164",
+    "category": "rules",
+    "prompt": "All motor vehicles must be covered by….",
+    "options": [
+      "Life Insurance",
+      "Third party Insurance",
+      "Comprehensive Insurance"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Third party Insurance” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 164, PDF page 12",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-165",
+    "category": "rules",
+    "prompt": "Minimum distance to be kept from the vehicle going in front…",
+    "options": [
+      "10 meter",
+      "5 meter",
+      "safe distance according to speed."
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “safe distance according to speed.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 165, PDF page 13",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-166",
+    "category": "rules",
+    "prompt": "The number of passengers permitted to be taken in private vehicle is recorded in the…..",
+    "options": [
+      "Registration Certificate",
+      "Tax Token",
+      "Permit"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Registration Certificate” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 166, PDF page 13",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-168",
+    "category": "rules",
+    "prompt": "If the road is marked with broken white lines, you …",
+    "options": [
+      "shall not change track.",
+      "can change track if required.",
+      "shall stop the vehicle."
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “can change track if required.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 168, PDF page 13",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-169",
+    "category": "rules",
+    "prompt": "Blinking red traffic light means…",
+    "options": [
+      "stop the vehicle till green light glows.",
+      "stop the vehicle and proceed if safe.",
+      "reduce speed and proceed."
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “stop the vehicle and proceed if safe.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 169, PDF page 13",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-171",
+    "category": "rules",
+    "prompt": "What is defensive driving ?",
+    "options": [
+      "Driving cautiously anticipating violation of trafficrules and road signs both by drivers and other road users.",
+      "Driving with sole aim of reaching the destination with no regards to road signs.",
+      "Driving on the assumption that other road users will be cautious about their safety."
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Driving cautiously anticipating violation of trafficrules and road signs both by drivers and other road users.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 171, PDF page 13",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-180",
+    "category": "rules",
+    "prompt": "When lorries are loaded…",
+    "options": [
+      "The load can be projected to both sides within 30 cm.",
+      "The load shall not project on both sides.",
+      "The load can be projected to both sides within 50 cm."
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “The load shall not project on both sides.” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 180, PDF page 14",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-190",
+    "category": "rules",
+    "prompt": "Maximum permitted weight that can be carried on a goods carriage….",
+    "options": [
+      "No limit",
+      "allowed as per permit",
+      "10 ton"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “allowed as per permit” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 190, PDF page 14",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-199",
+    "category": "rules",
+    "prompt": "According to section 112 of the Motor Vehicles Act 1988…",
+    "options": [
+      "Speed limit shall not be exceeded",
+      "Shall not drive after consuming alcohol",
+      "Shall not use vehicle on road without paying tax"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Speed limit shall not be exceeded” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 199, PDF page 15",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-200",
+    "category": "rules",
+    "prompt": "Section 113 of the Motor Vehicle Act 1988 stipulates that the driver should not drive a vehicle…..",
+    "options": [
+      "After consuming alcohol.",
+      "Exceeding the speed limit",
+      "Exceeding the weight permitted to carry"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Exceeding the weight permitted to carry” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 200, PDF page 15",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-205",
+    "category": "rules",
+    "prompt": "According to section 129 of Motor Vehicle Act 1988 a person driving a motor cycle shall….",
+    "options": [
+      "wear jerkins",
+      "wear helmet",
+      "wear shoes"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “wear helmet” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 205, PDF page 15",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-213",
+    "category": "rules",
+    "prompt": "Zig-Zag driving is….",
+    "options": [
+      "Dangerous to two-wheelers only",
+      "Dangerous to all at all times",
+      "Dangerous to four- wheelers vehicles"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Dangerous to all at all times” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 213, PDF page 15",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-214",
+    "category": "rules",
+    "prompt": "You are on a long downhill slope. What should you do to help control the speed of your vehicle ?",
+    "options": [
+      "change to low gear",
+      "Stop the Engine",
+      "select neutral"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “change to low gear” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 214, PDF page 15",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-216",
+    "category": "rules",
+    "prompt": "While on a round about",
+    "options": [
+      "traffic entering has right of way",
+      "traffic existing has right of way",
+      "traffic on the roundabout has right of way"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “traffic on the roundabout has right of way” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 216, PDF page 15",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-217",
+    "category": "rules",
+    "prompt": "It is essential to wear a helmet while driving a two- wheeler because….",
+    "options": [
+      "It is for your individual safety",
+      "Otherwise you will be caught by the traffic police",
+      "It is necessary for uniformity on the road"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “It is for your individual safety” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 217, PDF page 15",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-219",
+    "category": "rules",
+    "prompt": "You are behind a bus that has stopped to pickup or drop off passengers you should…..",
+    "options": [
+      "wait behind patiently",
+      "overtake from the left",
+      "overtake from the pedestrians"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “wait behind patiently” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 219, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-222",
+    "category": "rules",
+    "prompt": "A flashing yellow signal is used when…..",
+    "options": [
+      "traffic lights aren’t working",
+      "you should slow down & proceed with caution",
+      "men are at work"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “you should slow down & proceed with caution” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 222, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-223",
+    "category": "rules",
+    "prompt": "You stop for pedestrians waiting to cross at a zebra crossing. They do not start to cross. What should you do ?",
+    "options": [
+      "sound your horn",
+      "be patient and wait",
+      "drive on"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “be patient and wait” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 223, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-225",
+    "category": "rules",
+    "prompt": "A high beam in foggy conditions….",
+    "options": [
+      "is good because you can see more",
+      "is bad because it reflects back and can dazzle",
+      "make sure others can see you"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “is bad because it reflects back and can dazzle” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 225, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-228",
+    "category": "rules",
+    "prompt": "You are driving. A vehicle comes up quickly behind, flashing head lamps. You should…..",
+    "options": [
+      "accelerate to maintain gap behind you",
+      "touch the breaks to show your brake lights",
+      "allow the vehicle to over take, if safe"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “allow the vehicle to over take, if safe” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 228, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-230",
+    "category": "rules",
+    "prompt": "You are driving in rain. Why should you keep well back from the vehicle in front ?",
+    "options": [
+      "in case it changes direction suddenly",
+      "in case its fog lights dazzle you",
+      "in case it stop suddenly"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “in case it stop suddenly” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 230, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-231",
+    "category": "rules",
+    "prompt": "What can cause hard steering",
+    "options": [
+      "badly worn tyre",
+      "over inflated tyre",
+      "under inflated tyre"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “under inflated tyre” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 231, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-234",
+    "category": "rules",
+    "prompt": "While you reach a junction with limited visibility you should",
+    "options": [
+      "look both ways and move carefully",
+      "look at right and move slowly",
+      "move quickly"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “look both ways and move carefully” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 234, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-236",
+    "category": "rules",
+    "prompt": "You are driving on a well-lit motor way at night, you must",
+    "options": [
+      "use your head light on high beam",
+      "always use your head lights in low beam",
+      "always use hazard light"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “always use your head lights in low beam” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 236, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-237",
+    "category": "rules",
+    "prompt": "Anti lock braking system prevents wheels from locking. This avoid tyres to",
+    "options": [
+      "Puncture",
+      "skid",
+      "wear"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “skid” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 237, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-238",
+    "category": "rules",
+    "prompt": "While travelling over motor way at night with other vehicles just ahead, better the switched on lights should be",
+    "options": [
+      "hazard warning light",
+      "low beam head light",
+      "high beam head light"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “low beam head light” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 238, PDF page 16",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-240",
+    "category": "rules",
+    "prompt": "Driving at high speed",
+    "options": [
+      "gives you better fuel efficiency",
+      "take less time for your journey",
+      "reduces time to react to hazard"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “reduces time to react to hazard” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 240, PDF page 17",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-241",
+    "category": "rules",
+    "prompt": "While driving, avoid",
+    "options": [
+      "observing traffic rules",
+      "reacting to wrong behaviour of other drivers",
+      "observing the dash board guages"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “reacting to wrong behaviour of other drivers” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 241, PDF page 17",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-244",
+    "category": "rules",
+    "prompt": "When you approach a bridge you should",
+    "options": [
+      "slow down and do not over take",
+      "beware of pedestrians",
+      "switch on the head lights"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “slow down and do not over take” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 244, PDF page 17",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-246",
+    "category": "rules",
+    "prompt": "While you are approaching a staggered junction, You should",
+    "options": [
+      "slow the vehicle",
+      "maintain your speed and sound the horn",
+      "use hazard warning light"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “slow the vehicle” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 246, PDF page 17",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-247",
+    "category": "rules",
+    "prompt": "At the Blind Junction you must stop",
+    "options": [
+      "only if there is traffic on the main road",
+      "behind the line and move forward slowly as vision improves",
+      "only if you are turning to the right"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “behind the line and move forward slowly as vision improves” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 247, PDF page 17",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-250",
+    "category": "rules",
+    "prompt": "Approaching a cross road, the driver of the long vehicle ahead of you, signals right and moves to left, You should",
+    "options": [
+      "sound horn and warn the driver",
+      "wait behind the vehicle",
+      "over take on the right hand side"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “wait behind the vehicle” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 250, PDF page 17",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-251",
+    "category": "rules",
+    "prompt": "Basic rule on a two lane high way is",
+    "options": [
+      "keep to the left lane unless over taking",
+      "keep the lane with the least traffic",
+      "always keep to the right lane at high speed"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “keep to the left lane unless over taking” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 251, PDF page 17",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-252",
+    "category": "rules",
+    "prompt": "You meet an obstruction on your side of the road, You should",
+    "options": [
+      "move on as you have priority",
+      "accelerate to move quickly",
+      "give way to on coming traffic"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “give way to on coming traffic” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 252, PDF page 17",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-259",
+    "category": "rules",
+    "prompt": "When you are moving from a parking place, You should",
+    "options": [
+      "use the rear view mirrors, check in the blind spot and give signal",
+      "look around the vehicle",
+      "sound horn and move ahead"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “use the rear view mirrors, check in the blind spot and give signal” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 259, PDF page 18",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-261",
+    "category": "rules",
+    "prompt": "You are intending to turn left , you should position your vehicle at",
+    "options": [
+      "the middle lane",
+      "the left hand lane",
+      "on the shoulder of the road"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “the left hand lane” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 261, PDF page 18",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-262",
+    "category": "rules",
+    "prompt": "You are in a wrong lane while approaching a busy Junction you should",
+    "options": [
+      "continue in that lane",
+      "stop until other lane is cleared",
+      "show signal and cut across"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “continue in that lane” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 262, PDF page 18",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-266",
+    "category": "rules",
+    "prompt": "When approaching from the rear, where two lanes of traffic have stopped at a signal, you should",
+    "options": [
+      "pass all the vehicle and stop in front of them",
+      "stop behind the last vehicle in the appropriate lane",
+      "stop any where"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “stop behind the last vehicle in the appropriate lane” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 266, PDF page 18",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-267",
+    "category": "rules",
+    "prompt": "Rear Mirror is slightly curved to",
+    "options": [
+      "give a wider field of vision",
+      "cover the blind spot totally",
+      "judge the speed of following vehicle"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “give a wider field of vision” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 267, PDF page 18",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-270",
+    "category": "rules",
+    "prompt": "Fitment of multi toned horns on a motor vehicle is",
+    "options": [
+      "permitted only in emergency",
+      "an offence under the law as it causes noise pollution",
+      "for avoiding accident"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “an offence under the law as it causes noise pollution” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 270, PDF page 18",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-271",
+    "category": "rules",
+    "prompt": "Your vehicle pulls to one side while braking, You should",
+    "options": [
+      "change the tyres around",
+      "pump the pedal when braking",
+      "consult your mechanic"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “consult your mechanic” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 271, PDF page 18",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-274",
+    "category": "rules",
+    "prompt": "What is blind spot",
+    "options": [
+      "An area not seen in your rear view mirrors",
+      "an area not covered by head lights",
+      "an area not covered by the rear view mirror inside your vehicle"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “An area not seen in your rear view mirrors” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 274, PDF page 18",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-275",
+    "category": "rules",
+    "prompt": "While approaching a road under repair, you comply the permitted speed limit",
+    "options": [
+      "during day time and working is going on",
+      "During night time only",
+      "at all times"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “at all times” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 275, PDF page 18",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-279",
+    "category": "rules",
+    "prompt": "An accident has just happened and the injured person is lying on the road, you should",
+    "options": [
+      "protect the area and inform the authorities",
+      "protect the area and give first aid to injured",
+      "protect the area, give first aid ,take the injured to the hospital and inform the authorities"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “protect the area, give first aid ,take the injured to the hospital and inform the authorities” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 279, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-280",
+    "category": "rules",
+    "prompt": "What is the main aim of the first aid",
+    "options": [
+      "To treat the injury",
+      "To prevent aggravating the injury and its effects",
+      "all of the above"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “To prevent aggravating the injury and its effects” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 280, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-281",
+    "category": "rules",
+    "prompt": "How does alcohol affect your driving",
+    "options": [
+      "It increase your awareness",
+      "it reduce your concentration and attention",
+      "it increase your confidence"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “it reduce your concentration and attention” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 281, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-282",
+    "category": "rules",
+    "prompt": "Which of these lights will come after Amber at a traffic light",
+    "options": [
+      "Red",
+      "Green",
+      "red or greeen"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Red” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 282, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-283",
+    "category": "rules",
+    "prompt": "While driving you start feeling tired or unable to concentrate, You should",
+    "options": [
+      "Stop as soon as it is safe to do so and take rest",
+      "switch on the stereo to help you concentrate",
+      "speed up to get your destination sooner"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Stop as soon as it is safe to do so and take rest” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 283, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-284",
+    "category": "rules",
+    "prompt": "You are drivng at night, what can you do to help you to keep alert?",
+    "options": [
+      "takes proper rest periods at correct intervals",
+      "walk around in fresh air after a rest stop",
+      "both of the above"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “walk around in fresh air after a rest stop” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 284, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-285",
+    "category": "rules",
+    "prompt": "You are driving a car during a journey you are feeling ill and unable to concentrate, what should you do?",
+    "options": [
+      "increase your speed to finish your work earlier",
+      "continue your journey and keep your windows open",
+      "stop in a safe place and if possible seek for medical attention"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “stop in a safe place and if possible seek for medical attention” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 285, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-286",
+    "category": "rules",
+    "prompt": "Anti lock braking system is designed to",
+    "options": [
+      "prevent the driving wheel from spinning",
+      "prevent moisture from building up inside the braking system",
+      "prevent wheels from locking up on braking and avoid skidding of the tyres"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “prevent wheels from locking up on braking and avoid skidding of the tyres” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 286, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-287",
+    "category": "rules",
+    "prompt": "What is \"brake fade\"",
+    "options": [
+      "A reduction of air pressure",
+      "smooth progressive braking",
+      "reduction of braking effectiveness"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “reduction of braking effectiveness” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 287, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-289",
+    "category": "rules",
+    "prompt": "When stopping on an uphill gradient, one should",
+    "options": [
+      "Hold the vehicle on the clutch",
+      "Hold the vehicle on the foot brake",
+      "Hold the vehicle applying parking brake after stopping"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Hold the vehicle applying parking brake after stopping” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 289, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-290",
+    "category": "rules",
+    "prompt": "You are driving behind a large vehicle, how can you improve your view ahead?",
+    "options": [
+      "Overtake as soon as you can",
+      "Move over to the left",
+      "Stay further back"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Stay further back” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 290, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-294",
+    "category": "rules",
+    "prompt": "How can you avoid harsh driving?",
+    "options": [
+      "gently apply the parking brake",
+      "plan and take earlier action in using brake",
+      "slow down by using gears only"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “plan and take earlier action in using brake” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 294, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-297",
+    "category": "rules",
+    "prompt": "Hazard warning lamps may only be used at certain times",
+    "options": [
+      "for going ahead at a junction",
+      "For slowing down the rear vehicle",
+      "for emergency parking especially on high ways and busy roads"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “for emergency parking especially on high ways and busy roads” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 297, PDF page 19",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-299",
+    "category": "rules",
+    "prompt": "What must you do if your vehicle is involved in an accident?",
+    "options": [
+      "stop at the scene of the accident, give First Aid to the victim if possible and help him to get medical attention",
+      "drive the vehicle to the nearest police station",
+      "inform the insurance authorities at the earliest"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “stop at the scene of the accident, give First Aid to the victim if possible and help him to get medical attention” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 299, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-300",
+    "category": "rules",
+    "prompt": "Your vehicle has hit a parked vehicle. The owner of that vehicle could not be traced out at the time, you must",
+    "options": [
+      "drive away from the accident spot and clear the damage at the earliest",
+      "inform the insurance authorities as soon as possible",
+      "inform the police station having jurisdiction over the place in which the accident occurred within 24 hours"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “inform the police station having jurisdiction over the place in which the accident occurred within 24 hours” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 300, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-302",
+    "category": "rules",
+    "prompt": "Motor cyclist are advised to wear ------------------------type of clothing at night to make them visible to other road users",
+    "options": [
+      "bright clothing",
+      "dark clothing",
+      "none of this"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “bright clothing” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 302, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-303",
+    "category": "rules",
+    "prompt": "Before you open the right side doors on parking, you should",
+    "options": [
+      "ensure that no vehicle is passing by",
+      "quickly open the door and get down",
+      "do not open the right doors and get down through the left only"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “ensure that no vehicle is passing by” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 303, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-304",
+    "category": "rules",
+    "prompt": "Which of the following is most important when loading a vehicle?",
+    "options": [
+      "Loading it towards the rear",
+      "loading it towards the front",
+      "spreading the load evenly"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “spreading the load evenly” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 304, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-305",
+    "category": "rules",
+    "prompt": "You are driving a tipper vehicle carrying loose dry sand. Why should you cover this load properly ?",
+    "options": [
+      "To stop handling being affective _x000D_",
+      "to set your rear ward vision",
+      "to prevent sand being blown into the eyes of other road users"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “to prevent sand being blown into the eyes of other road users” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 305, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-306",
+    "category": "rules",
+    "prompt": "How many people can you carry over the load carried on a truck?",
+    "options": [
+      "one",
+      "as per permit",
+      "none"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “none” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 306, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-307",
+    "category": "rules",
+    "prompt": "What should be checked first before turning to the left?",
+    "options": [
+      "the right side mirror",
+      "the left side mirror",
+      "look behind over your right shoulders"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “the left side mirror” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 307, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-308",
+    "category": "rules",
+    "prompt": "You are about to move off you should always",
+    "options": [
+      "using your mirrors look behind and give proper signal",
+      "signal left with indicator and move",
+      "use only the off side mirror and move away quickly"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “using your mirrors look behind and give proper signal” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 308, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-310",
+    "category": "rules",
+    "prompt": "The turning circle of a vehicle is the",
+    "options": [
+      "number of turns of the steering wheels between locked",
+      "amount by which a vehicle cuts corners",
+      "amount of space needed for the vehicle to turn"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “amount of space needed for the vehicle to turn” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 310, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-311",
+    "category": "rules",
+    "prompt": "Before braking in wet condition you should make sure as far as possible that",
+    "options": [
+      "the gear lever is in neutral",
+      "there is no mist or water in your rear view mirror",
+      "your vehicle is traveling slowly in a straight line"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “your vehicle is traveling slowly in a straight line” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 311, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-313",
+    "category": "rules",
+    "prompt": "Wiper fitted on the windscreen of a vehicle is",
+    "options": [
+      "only for rainy season",
+      "for cleaning the wind shield at any season",
+      "as a signal to the on coming vehicle to stop approaching"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “for cleaning the wind shield at any season” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 313, PDF page 20",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-316",
+    "category": "rules",
+    "prompt": "You are driving a vehicle fitted with a speed governor you should be careful when",
+    "options": [
+      "overtaking another vehicle",
+      "cornering",
+      "braking"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “overtaking another vehicle” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 316, PDF page 21",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-318",
+    "category": "rules",
+    "prompt": "A driver of a motor car driving behind a long truck can keep a braking distance",
+    "options": [
+      "1.2 meters",
+      "2.5 meters",
+      "safe distance"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “safe distance” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 318, PDF page 21",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-321",
+    "category": "rules",
+    "prompt": "No driver of a motor vehicle shall sound horn on",
+    "options": [
+      "highways",
+      "prohibited areas by notification of the authority",
+      "rural roads"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “prohibited areas by notification of the authority” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 321, PDF page 21",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-322",
+    "category": "rules",
+    "prompt": "Which of the safety device fitted in Light Motor vehicle protects the driver from injury",
+    "options": [
+      "helmet",
+      "Seat belt",
+      "none of above"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Seat belt” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 322, PDF page 21",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-324",
+    "category": "rules",
+    "prompt": "Pedestrians should walk on the ----------------------side of the road",
+    "options": [
+      "right",
+      "left",
+      "middle"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “right” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 324, PDF page 21",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-326",
+    "category": "rules",
+    "prompt": "Reverse driving is permitted only for",
+    "options": [
+      "Minimum distance required for changing direction",
+      "during night driving",
+      "driving on ghat roads"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Minimum distance required for changing direction” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 326, PDF page 21",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-327",
+    "category": "rules",
+    "prompt": "Precautions to be followed during parking at night",
+    "options": [
+      "park out side of the carriage way and use park light and hand brake",
+      "park the vehicle on foot path away from traffic",
+      "use tyre jacky to prevent roling"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “park out side of the carriage way and use park light and hand brake” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 327, PDF page 21",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-330",
+    "category": "rules",
+    "prompt": "On roads with defined lanes",
+    "options": [
+      "use appropriate indicator signal before changing lanes",
+      "lane changing is prohibited by law",
+      "peep and see backwards through the front window before changing lanes"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “use appropriate indicator signal before changing lanes” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 330, PDF page 21",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-332",
+    "category": "rules",
+    "prompt": "During night, a car driving towards you with high beam on, the driver of that car is",
+    "options": [
+      "driving with bad manners since high beams blind others",
+      "a safe driver since high beam lights up the road",
+      "not obeying law"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “driving with bad manners since high beams blind others” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 332, PDF page 21",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-335",
+    "category": "rules",
+    "prompt": "You are moving into the street from a parallel parking space, you should",
+    "options": [
+      "blow horn and pull out slowly,",
+      "show signal to other traffic and then move carefully",
+      "proceed with caution after making sure that there is no vehicle in the vicinity that may cause an accident"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “show signal to other traffic and then move carefully” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 335, PDF page 22",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-336",
+    "category": "rules",
+    "prompt": "While on a main road, another vehicle enters from a cross road, which vehicle has the \"Right of way\"",
+    "options": [
+      "Vehicle on the main road",
+      "the vehicle approaching",
+      "none of the cars"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Vehicle on the main road” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 336, PDF page 22",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-338",
+    "category": "rules",
+    "prompt": "If your vehicle hits a pedestrian you should",
+    "options": [
+      "identify yourself and leave",
+      "help the person, and call an ambulance",
+      "help the injured for medical aid identify yourself and then report to police"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “help the injured for medical aid identify yourself and then report to police” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 338, PDF page 22",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-339",
+    "category": "rules",
+    "prompt": "You should not over take",
+    "options": [
+      "when the road ahead is not visible",
+      "on straight road",
+      "in rural areas"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “when the road ahead is not visible” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 339, PDF page 22",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-340",
+    "category": "rules",
+    "prompt": "Reversing is prohibited in",
+    "options": [
+      "main road",
+      "in one way",
+      "at T Junction"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “in one way” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 340, PDF page 22",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-341",
+    "category": "rules",
+    "prompt": "While driving on wet or slippery road",
+    "options": [
+      "tyre pressure must be reduced",
+      "avoid sudden braking and acceleration",
+      "vehicle should be driven at high speed"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “avoid sudden braking and acceleration” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 341, PDF page 22",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-344",
+    "category": "rules",
+    "prompt": "While parking the vehicle, you should",
+    "options": [
+      "park the vehicle in such a way that it does not obstruct or make inconvenience to other road users",
+      "parrellel to the kerb",
+      "right angle to the kerb"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “park the vehicle in such a way that it does not obstruct or make inconvenience to other road users” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 344, PDF page 22",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-345",
+    "category": "rules",
+    "prompt": "To drive a vehicle with expired insurance, one",
+    "options": [
+      "should drive cautiously to avoid any accident or loss to third party",
+      "should not drive",
+      "may drive if the driver has a valid personal life insurance policy"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “should not drive” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 345, PDF page 22",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-348",
+    "category": "rules",
+    "prompt": "Before leaving your parked vehicle, you should",
+    "options": [
+      "turn ignition key off",
+      "stop the engine, remove key and engage hand brake",
+      "lock the car"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “stop the engine, remove key and engage hand brake” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 348, PDF page 23",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-349",
+    "category": "rules",
+    "prompt": "A motor driving licence issued in a State is valid",
+    "options": [
+      "throughout India",
+      "throughout the World",
+      "only in the State of issue"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “throughout India” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 349, PDF page 23",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-351",
+    "category": "rules",
+    "prompt": "Can you give a motor vehicle for driving to a person who does not have a valid licence?",
+    "options": [
+      "yes, since the driver solely is responsible",
+      "No, since it is a serious offence",
+      "an offence only if the vehicle involves in an accident"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “No, since it is a serious offence” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 351, PDF page 23",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-353",
+    "category": "rules",
+    "prompt": "Driving of a vehicle with the pollution values exceeding the limits.",
+    "options": [
+      "is permitted in emergency",
+      "is an offence under law",
+      "is liable for a strict warning from authorities"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “is an offence under law” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 353, PDF page 23",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-354",
+    "category": "rules",
+    "prompt": "Abrupt braking shall not be resorted to",
+    "options": [
+      "unless it is absolutely necessary",
+      "on down hill",
+      "on main road"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “unless it is absolutely necessary” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 354, PDF page 23",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-357",
+    "category": "rules",
+    "prompt": "To stop a motor cycle",
+    "options": [
+      "apply rear brakes and after slowing apply front brakes",
+      "apply both front and rear brakes simultaneously",
+      "apply rear brake only"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “apply both front and rear brakes simultaneously” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 357, PDF page 23",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-364",
+    "category": "rules",
+    "prompt": "It is dangerous to drive with bald(worn out) tyres, since",
+    "options": [
+      "the vehicle pick up speed quickly",
+      "It has little road grip",
+      "it has too much road grip"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “It has little road grip” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 364, PDF page 23",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-366",
+    "category": "rules",
+    "prompt": "Over speeding or dangerous driving may",
+    "options": [
+      "attracts a strict warning for the authorities",
+      "is an offence and is punishable",
+      "attract other road users"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “is an offence and is punishable” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 366, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-369",
+    "category": "rules",
+    "prompt": "You can open the doors on the traffic side(right side) when",
+    "options": [
+      "traffic is clear",
+      "the car stop completely",
+      "after signalling other cars to side"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “traffic is clear” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 369, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-372",
+    "category": "rules",
+    "prompt": "Fitment of a multi toned horn in a vehicle is",
+    "options": [
+      "allowed",
+      "not recommended since it is a costly alternative",
+      "is against law"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “is against law” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 372, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-373",
+    "category": "rules",
+    "prompt": "Flashing yellow traffic light means",
+    "options": [
+      "continue at the same speed",
+      "stop, if possible to do so.",
+      "slow down and proceed with caution"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “slow down and proceed with caution” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 373, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-375",
+    "category": "rules",
+    "prompt": "A flashing red light means",
+    "options": [
+      "stop and proceed with caution",
+      "slow sign",
+      "yield right of way sign"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “stop and proceed with caution” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 375, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-376",
+    "category": "rules",
+    "prompt": "When you are approaching a round to which you are about to enter you should",
+    "options": [
+      "continue into the circular traffic at slow speed",
+      "give way to the vehicles coming from the right direction",
+      "use the outside lane only"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “give way to the vehicles coming from the right direction” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 376, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-377",
+    "category": "rules",
+    "prompt": "When you approach an intersection and you are in main road without traffic lights, police man and traffic signs, you should",
+    "options": [
+      "slow down and be cautious to negotiate the intersection",
+      "come to full stop and proceed with caution",
+      "not change speed if the way is clear"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “slow down and be cautious to negotiate the intersection” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 377, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-378",
+    "category": "rules",
+    "prompt": "Emergency vehicles means",
+    "options": [
+      "road rollers and cranes",
+      "mobile automobile work shop",
+      "ambulance and fire service vehicles"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “ambulance and fire service vehicles” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 378, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-379",
+    "category": "rules",
+    "prompt": "Drivers should not sound horn",
+    "options": [
+      "in one way",
+      "on main road",
+      "at silent zone"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “at silent zone” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 379, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-381",
+    "category": "rules",
+    "prompt": "Mandatory signs are exhibited in",
+    "options": [
+      "circular shape except stop and give way signs",
+      "triangular shape",
+      "rectangular shape"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “circular shape except stop and give way signs” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 381, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-382",
+    "category": "rules",
+    "prompt": "Cautionary signs are exhibited in",
+    "options": [
+      "circular shape",
+      "triangular shape",
+      "rectangular shape"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “triangular shape” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 382, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-383",
+    "category": "rules",
+    "prompt": "Informative signs are exhibited in",
+    "options": [
+      "circular shape",
+      "triangular shape",
+      "rectangular shape"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “rectangular shape” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 383, PDF page 24",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-387",
+    "category": "rules",
+    "prompt": "The safe way to stop the vehicle",
+    "options": [
+      "press clutch and then brake",
+      "press brake and then clutch",
+      "press clutch and brake simultaneously"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “press brake and then clutch” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 387, PDF page 25",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-389",
+    "category": "rules",
+    "prompt": "If your vehicle became break down during night",
+    "options": [
+      "stop, use hand brake and exhibit hazardous warning light",
+      "stop and exhibit red light",
+      "leave the vehicle"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “stop, use hand brake and exhibit hazardous warning light” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 389, PDF page 25",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-395",
+    "category": "rules",
+    "prompt": "An accident victim can be treated by",
+    "options": [
+      "only a government hospital doctor",
+      "any registered medical practitioner or doctor",
+      "by the driver"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “any registered medical practitioner or doctor” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 395, PDF page 25",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-398",
+    "category": "rules",
+    "prompt": "A driver shall drive in one way",
+    "options": [
+      "only in the direction specified by the sign board",
+      "reverse direction in emergencies",
+      "both ways on sundays"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “only in the direction specified by the sign board” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 398, PDF page 25",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-399",
+    "category": "rules",
+    "prompt": "On ghat roads, when vehicles approach from the opposite sides the driver travelling down hill shall",
+    "options": [
+      "drive fast before the opposite vehicle enters",
+      "switch on the head lights and take way",
+      "give preference to the vehicles going up"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “give preference to the vehicles going up” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 399, PDF page 25",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-406",
+    "category": "rules",
+    "prompt": "Under which circumstance you will avoid overtaking",
+    "options": [
+      "after a curve",
+      "on a curve",
+      "when the visibility ahead is clear"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “on a curve” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 406, PDF page 25",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-408",
+    "category": "rules",
+    "prompt": "When a pedastrian Steps in to a zebra line in front of you to cross the road",
+    "options": [
+      "stop befor the stop line and treat it as a stop signal",
+      "you have to proceed before him",
+      "sound horn and speed up your vehicle to cross before him"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “stop befor the stop line and treat it as a stop signal” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 408, PDF page 25",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-411",
+    "category": "rules",
+    "prompt": "While driving behind a motor cycle on a badly maintained road you should",
+    "options": [
+      "continuously blow horn",
+      "over take immediately",
+      "keep safe distance"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “keep safe distance” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 411, PDF page 26",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-414",
+    "category": "rules",
+    "prompt": "Seat belts have to be used by",
+    "options": [
+      "Driver only",
+      "Front seat Passengers only",
+      "Both"
+    ],
+    "answer": 2,
+    "image": null,
+    "explanation": "The correct answer includes both of these: Driver only; Front seat Passengers only.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 414, PDF page 26",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-415",
+    "category": "rules",
+    "prompt": "Over loading of any kind is",
+    "options": [
+      "prohibited under law",
+      "if the driver can control the vehicle safely",
+      "allowed if the driver pays the fine"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “prohibited under law” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 415, PDF page 26",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-418",
+    "category": "rules",
+    "prompt": "Person sitting or standing by the side of the driver causing inconvenience to control the vehicle",
+    "options": [
+      "is allowed with the permission of the RTO",
+      "is not allowed",
+      "allowed in case of emergency"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “is not allowed” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 418, PDF page 26",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-424",
+    "category": "rules",
+    "prompt": "Driver driving a vehicle in a public place without a licence, is liable for",
+    "options": [
+      "penalty only",
+      "penalty for the driver and the owner and/ or seizure of vehicle",
+      "warning"
+    ],
+    "answer": 1,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “penalty for the driver and the owner and/ or seizure of vehicle” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 424, PDF page 26",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-428",
+    "category": "rules",
+    "prompt": "When the visibility becomes very low, during the day time in rainy season, the driver shall",
+    "options": [
+      "use head light",
+      "make sure that wiper blades are not old",
+      "none of the above"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “use head light” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 428, PDF page 26",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "parivahan-432",
+    "category": "rules",
+    "prompt": "A flashing yellow at an intersection means ?",
+    "options": [
+      "Proceed with caution",
+      "Stop and proceed",
+      "Proceed fast"
+    ],
+    "answer": 0,
+    "image": null,
+    "explanation": "The published Parivahan question bank identifies “Proceed with caution” as the correct answer.",
+    "source_url": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "source_ref": "Question 432, PDF page 27",
+    "imported_at": "2026-10-23",
+    "topic": "Safe driving"
+  },
+  {
+    "id": "maharashtra-m1",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Give way",
+      "Straight ahead prohibited",
+      "Bullock carts and hand carts prohibited",
+      "Compulsory Turn Left"
+    ],
+    "answer": 1,
+    "image": "/signs/m1.jpg",
+    "explanation": "This is the straight ahead prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m1",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m2",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Left Turn Prohibited",
+      "Compulsory Cycle track",
+      "Compulsory Turn Left",
+      "Vehicles Prohibited In One Direction"
+    ],
+    "answer": 3,
+    "image": "/signs/m2.jpg",
+    "explanation": "This is the vehicles prohibited in one direction sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m2",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m3",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Length Limit",
+      "Compulsory Turn Left",
+      "Vehicles Prohibited In One Direction",
+      "All Vehicles Prohibited"
+    ],
+    "answer": 2,
+    "image": "/signs/m3.jpg",
+    "explanation": "This is the vehicles prohibited in one direction sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m3",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m4",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Cycles Prohibited",
+      "Trucks Prohibited",
+      "Compulsory Ahead",
+      "Vehicles Prohibited In Both Direction"
+    ],
+    "answer": 3,
+    "image": "/signs/m4.jpg",
+    "explanation": "This is the vehicles prohibited in both direction sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m4",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m5",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "All Vehicles Prohibited",
+      "Tongas Prohibited",
+      "Vehicles Prohibited In One Direction",
+      "Width Limit"
+    ],
+    "answer": 0,
+    "image": "/signs/m5.jpg",
+    "explanation": "This is the all vehicles prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m5",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m6",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Trucks Prohibited",
+      "Left Turn Prohibited",
+      "Height Limit",
+      "Horns Prohibited"
+    ],
+    "answer": 0,
+    "image": "/signs/m6.jpg",
+    "explanation": "This is the trucks prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m6",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m7",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Cycles Prohibited",
+      "Restriction Ends Sign",
+      "No Parking and No Stopping",
+      "Hand Carts Prohibited"
+    ],
+    "answer": 0,
+    "image": "/signs/m7.jpg",
+    "explanation": "This is the cycles prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m7",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m8",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Compulsory Sound Horn",
+      "Horns Prohibited",
+      "All Vehicles Prohibited",
+      "Stop"
+    ],
+    "answer": 1,
+    "image": "/signs/m8.jpg",
+    "explanation": "This is the horns prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m8",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m9",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Compulsory Turn Left",
+      "Bullock carts and hand carts prohibited",
+      "Length Limit",
+      "Straight ahead prohibited"
+    ],
+    "answer": 1,
+    "image": "/signs/m9.jpg",
+    "explanation": "This is the bullock carts and hand carts prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m9",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m10",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Overtaking Prohibited",
+      "Give way",
+      "Speed Limit",
+      "Bullock Carts Prohibited"
+    ],
+    "answer": 3,
+    "image": "/signs/m10.jpg",
+    "explanation": "This is the bullock carts prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m10",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m11",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Compulsory Turn Left",
+      "Tongas Prohibited",
+      "Speed Limit",
+      "U-Turn Prohibited"
+    ],
+    "answer": 1,
+    "image": "/signs/m11.jpg",
+    "explanation": "This is the tongas prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m11",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m12",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Height Limit",
+      "Right Turn Prohibited",
+      "Hand Carts Prohibited",
+      "Speed Limit"
+    ],
+    "answer": 2,
+    "image": "/signs/m12.jpg",
+    "explanation": "This is the hand carts prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m12",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m13",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Pedestrians Prohibited",
+      "Stop",
+      "Bullock Carts Prohibited",
+      "Compulsory Turn Left"
+    ],
+    "answer": 0,
+    "image": "/signs/m13.jpg",
+    "explanation": "This is the pedestrians prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m13",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m14",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Compulsory Ahead Or Turn Left",
+      "Right Turn Prohibited",
+      "Bullock Carts Prohibited",
+      "U-Turn Prohibited"
+    ],
+    "answer": 1,
+    "image": "/signs/m14.jpg",
+    "explanation": "This is the right turn prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m14",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m15",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Width Limit",
+      "Give way",
+      "U-Turn Prohibited",
+      "Left Turn Prohibited"
+    ],
+    "answer": 3,
+    "image": "/signs/m15.jpg",
+    "explanation": "This is the left turn prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m15",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m16",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Stop",
+      "U-Turn Prohibited",
+      "Compulsory Keep Left",
+      "No Parking and No Stopping"
+    ],
+    "answer": 1,
+    "image": "/signs/m16.jpg",
+    "explanation": "This is the u-turn prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m16",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m17",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Compulsory Turn Right Ahead",
+      "No Parking and No Stopping",
+      "Give way",
+      "Overtaking Prohibited"
+    ],
+    "answer": 3,
+    "image": "/signs/m17.jpg",
+    "explanation": "This is the overtaking prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m17",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m18",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Compulsory Turn Left",
+      "Compulsory Ahead",
+      "No Parking",
+      "Stop"
+    ],
+    "answer": 2,
+    "image": "/signs/m18.jpg",
+    "explanation": "This is the no parking sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m18",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m19",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "No Parking and No Stopping",
+      "Length Limit",
+      "Bullock Carts Prohibited",
+      "Straight ahead prohibited"
+    ],
+    "answer": 0,
+    "image": "/signs/m19.jpg",
+    "explanation": "This is the no parking and no stopping sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m19",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m20",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Bullock carts and hand carts prohibited",
+      "Speed Limit",
+      "Compulsory Ahead Or Turn Left",
+      "No Parking"
+    ],
+    "answer": 1,
+    "image": "/signs/m20.jpg",
+    "explanation": "This is the speed limit sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m20",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m21",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Bullock Carts Prohibited",
+      "Compulsory Turn Left",
+      "Width Limit",
+      "Compulsory Cycle track"
+    ],
+    "answer": 2,
+    "image": "/signs/m21.jpg",
+    "explanation": "This is the width limit sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m21",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m22",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Cycles Prohibited",
+      "Compulsory Turn Right Ahead",
+      "Height Limit",
+      "Compulsory Sound Horn"
+    ],
+    "answer": 2,
+    "image": "/signs/m22.jpg",
+    "explanation": "This is the height limit sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m22",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m23",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Length Limit",
+      "Load Limit",
+      "U-Turn Prohibited",
+      "Bullock carts and hand carts prohibited"
+    ],
+    "answer": 0,
+    "image": "/signs/m23.jpg",
+    "explanation": "This is the length limit sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m23",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m24",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Cycles Prohibited",
+      "Stop",
+      "Load Limit",
+      "Width Limit"
+    ],
+    "answer": 2,
+    "image": "/signs/m24.jpg",
+    "explanation": "This is the load limit sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m24",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m25",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Axle Load Limit",
+      "Compulsory Ahead Or Turn Left",
+      "No Parking",
+      "Bullock carts and hand carts prohibited"
+    ],
+    "answer": 0,
+    "image": "/signs/m25.jpg",
+    "explanation": "This is the axle load limit sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m25",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m26",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Goods vehicles prohibited",
+      "No Parking and No Stopping",
+      "Length Limit",
+      "Vehicles Prohibited In Both Direction"
+    ],
+    "answer": 0,
+    "image": "/signs/m26.jpg",
+    "explanation": "This is the goods vehicles prohibited sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m26",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m27",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Restriction Ends Sign",
+      "All Vehicles Prohibited",
+      "Right Turn Prohibited",
+      "Hand Carts Prohibited"
+    ],
+    "answer": 0,
+    "image": "/signs/m27.jpg",
+    "explanation": "This is the restriction ends sign sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m27",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m28",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "No Parking",
+      "Length Limit",
+      "Compulsory Cycle track",
+      "Vehicles Prohibited In One Direction"
+    ],
+    "answer": 2,
+    "image": "/signs/m28.jpg",
+    "explanation": "This is the compulsory cycle track sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m28",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m29",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Height Limit",
+      "Length Limit",
+      "Axle Load Limit",
+      "Compulsory Sound Horn"
+    ],
+    "answer": 3,
+    "image": "/signs/m29.jpg",
+    "explanation": "This is the compulsory sound horn sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m29",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m30",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "No Parking",
+      "Compulsory Keep Left",
+      "Straight ahead prohibited",
+      "Compulsory Ahead Or Turn Left"
+    ],
+    "answer": 1,
+    "image": "/signs/m30.jpg",
+    "explanation": "This is the compulsory keep left sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m30",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m31",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Give way",
+      "Stop",
+      "All Vehicles Prohibited",
+      "Compulsory Turn Left"
+    ],
+    "answer": 3,
+    "image": "/signs/m31.jpg",
+    "explanation": "This is the compulsory turn left sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m31",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m32",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Height Limit",
+      "Compulsory Ahead Or Turn Left",
+      "Compulsory Turn Right Ahead",
+      "All Vehicles Prohibited"
+    ],
+    "answer": 2,
+    "image": "/signs/m32.jpg",
+    "explanation": "This is the compulsory turn right ahead sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m32",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m33",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Overtaking Prohibited",
+      "Restriction Ends Sign",
+      "Stop",
+      "Compulsory Ahead Or Turn Right"
+    ],
+    "answer": 3,
+    "image": "/signs/m33.jpg",
+    "explanation": "This is the compulsory ahead or turn right sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m33",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m34",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Compulsory Ahead Or Turn Left",
+      "Straight ahead prohibited",
+      "Bullock Carts Prohibited",
+      "Stop"
+    ],
+    "answer": 0,
+    "image": "/signs/m34.jpg",
+    "explanation": "This is the compulsory ahead or turn left sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m34",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m35",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Compulsory Turn Right Ahead",
+      "Compulsory Ahead",
+      "All Vehicles Prohibited",
+      "Load Limit"
+    ],
+    "answer": 1,
+    "image": "/signs/m35.jpg",
+    "explanation": "This is the compulsory ahead sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m35",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m36",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Stop",
+      "Horns Prohibited",
+      "Vehicles Prohibited In One Direction",
+      "Trucks Prohibited"
+    ],
+    "answer": 0,
+    "image": "/signs/m36.jpg",
+    "explanation": "This is the stop sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m36",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-m37",
+    "category": "signs",
+    "topic": "Mandatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Give way",
+      "Length Limit",
+      "Horns Prohibited",
+      "Load Limit"
+    ],
+    "answer": 0,
+    "image": "/signs/m37.jpg",
+    "explanation": "This is the give way sign, in the mandatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-m37",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-1",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Advance Direction",
+      "Telephone Booth",
+      "Medical Facility",
+      "Eating Place"
+    ],
+    "answer": 0,
+    "image": "/signs/i-1.gif",
+    "explanation": "This is the advance direction sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-1",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-2",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "No Thorough Side Road",
+      "Re-Assurance Sign",
+      "Light Refreshment",
+      "Destination Sign"
+    ],
+    "answer": 3,
+    "image": "/signs/i-2.gif",
+    "explanation": "This is the destination sign sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-2",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-3",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Medical Facility",
+      "Re-Assurance Sign",
+      "Direction Sign",
+      "Petrol Pump"
+    ],
+    "answer": 2,
+    "image": "/signs/i-3.gif",
+    "explanation": "This is the direction sign sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-3",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-4",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "No Thorough Road",
+      "Eating Place",
+      "Re-Assurance Sign",
+      "Petrol Pump"
+    ],
+    "answer": 2,
+    "image": "/signs/i-4.gif",
+    "explanation": "This is the re-assurance sign sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-4",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-6",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Telephone Booth",
+      "Eating Place",
+      "Advance Direction",
+      "Auto Rickshaw Stand"
+    ],
+    "answer": 0,
+    "image": "/signs/i-6.gif",
+    "explanation": "This is the telephone booth sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-6",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-7",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Petrol Pump",
+      "Resting Place",
+      "Light Refreshment",
+      "Re-Assurance Sign"
+    ],
+    "answer": 0,
+    "image": "/signs/i-7.gif",
+    "explanation": "This is the petrol pump sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-7",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-9",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Eating Place",
+      "Taxi Stand",
+      "Medical Facility",
+      "Parking Both Sides"
+    ],
+    "answer": 2,
+    "image": "/signs/i-9.gif",
+    "explanation": "This is the medical facility sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-9",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-10",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Re-Assurance Sign",
+      "Eating Place",
+      "Telephone Booth",
+      "Scooter & Motorcycle Stand"
+    ],
+    "answer": 1,
+    "image": "/signs/i-10.gif",
+    "explanation": "This is the eating place sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-10",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-11",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Taxi Stand",
+      "No Thorough Side Road",
+      "Parking Both Sides",
+      "Light Refreshment"
+    ],
+    "answer": 3,
+    "image": "/signs/i-11.gif",
+    "explanation": "This is the light refreshment sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-11",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-12",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Park In This Direction",
+      "Auto Rickshaw Stand",
+      "Resting Place",
+      "No Thorough Side Road"
+    ],
+    "answer": 2,
+    "image": "/signs/i-12.gif",
+    "explanation": "This is the resting place sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-12",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-13",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Park In This Direction",
+      "No Thorough Road",
+      "Resting Place",
+      "Destination Sign"
+    ],
+    "answer": 1,
+    "image": "/signs/i-13.gif",
+    "explanation": "This is the no thorough road sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-13",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-14",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Parking Both Sides",
+      "No Thorough Side Road",
+      "Light Refreshment",
+      "Telephone Booth"
+    ],
+    "answer": 1,
+    "image": "/signs/i-14.gif",
+    "explanation": "This is the no thorough side road sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-14",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-15",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Scooter & Motorcycle Stand",
+      "Resting Place",
+      "Park In This Direction",
+      "Flood Gauge"
+    ],
+    "answer": 2,
+    "image": "/signs/i-15.gif",
+    "explanation": "This is the park in this direction sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-15",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-16",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Resting Place",
+      "Auto Rickshaw Stand",
+      "Direction Sign",
+      "Parking Both Sides"
+    ],
+    "answer": 3,
+    "image": "/signs/i-16.gif",
+    "explanation": "This is the parking both sides sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-16",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-17",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Eating Place",
+      "Direction Sign",
+      "Scooter & Motorcycle Stand",
+      "Re-Assurance Sign"
+    ],
+    "answer": 2,
+    "image": "/signs/i-17.gif",
+    "explanation": "This is the scooter & motorcycle stand sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-17",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-18",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Cycle Stand",
+      "Auto Rickshaw Stand",
+      "No Thorough Road",
+      "Destination Sign"
+    ],
+    "answer": 0,
+    "image": "/signs/i-18.gif",
+    "explanation": "This is the cycle stand sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-18",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-19",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Park In This Direction",
+      "Taxi Stand",
+      "Advance Direction",
+      "No Thorough Side Road"
+    ],
+    "answer": 1,
+    "image": "/signs/i-19.gif",
+    "explanation": "This is the taxi stand sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-19",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-20",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Petrol Pump",
+      "Scooter & Motorcycle Stand",
+      "No Thorough Road",
+      "Auto Rickshaw Stand"
+    ],
+    "answer": 3,
+    "image": "/signs/i-20.gif",
+    "explanation": "This is the auto rickshaw stand sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-20",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-21",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Taxi Stand",
+      "Destination Sign",
+      "Cycle Rickshaw Stand",
+      "Advance Direction"
+    ],
+    "answer": 2,
+    "image": "/signs/i-21.gif",
+    "explanation": "This is the cycle rickshaw stand sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-21",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-i-22",
+    "category": "signs",
+    "topic": "Informatory signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Flood Gauge",
+      "Resting Place",
+      "Advance Direction",
+      "Medical Facility"
+    ],
+    "answer": 0,
+    "image": "/signs/i-22.gif",
+    "explanation": "This is the flood gauge sign, in the informatory category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-i-22",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs1",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Right Hand Curve",
+      "Steep Ascent",
+      "Road widens ahead",
+      "Falling Rocks"
+    ],
+    "answer": 0,
+    "image": "/signs/cs1.jpg",
+    "explanation": "This is the right hand curve sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs1",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs2",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Steep Ascent",
+      "Left Hand Curve",
+      "Unguarded railway crossing ahead (200 m)",
+      "Men at Work"
+    ],
+    "answer": 1,
+    "image": "/signs/cs2.jpg",
+    "explanation": "This is the left hand curve sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs2",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs3",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Right Hair Pin Bend",
+      "Ferry",
+      "Falling Rocks",
+      "Men at Work"
+    ],
+    "answer": 0,
+    "image": "/signs/cs3.jpg",
+    "explanation": "This is the right hair pin bend sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs3",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs4",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "T-Intersection",
+      "Barrier Ahead",
+      "School Ahead",
+      "Left Hair Pin Bend"
+    ],
+    "answer": 3,
+    "image": "/signs/cs4.jpg",
+    "explanation": "This is the left hair pin bend sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs4",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs5",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Staggered Intersection",
+      "Hump or Rough Road",
+      "Steep Descent",
+      "Right Reverse Bend"
+    ],
+    "answer": 3,
+    "image": "/signs/cs5.jpg",
+    "explanation": "This is the right reverse bend sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs5",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs6",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Major Road Ahead",
+      "Unguarded railway crossing ahead (200 m)",
+      "Unguarded railway crossing ahead (50–100 m)",
+      "Left Reverse Bend"
+    ],
+    "answer": 3,
+    "image": "/signs/cs6.jpg",
+    "explanation": "This is the left reverse bend sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs6",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs7",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Road widens ahead",
+      "Narrow Bridge",
+      "Steep Ascent",
+      "Left Reverse Bend"
+    ],
+    "answer": 2,
+    "image": "/signs/cs7.jpg",
+    "explanation": "This is the steep ascent sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs7",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs8",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Steep Descent",
+      "Pedestrian Crossing",
+      "School Ahead",
+      "Guarded railway crossing ahead (200 m)"
+    ],
+    "answer": 0,
+    "image": "/signs/cs8.jpg",
+    "explanation": "This is the steep descent sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs8",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs9",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Pedestrian Crossing",
+      "Narrow Road Ahead",
+      "T-Intersection",
+      "Narrow Bridge"
+    ],
+    "answer": 1,
+    "image": "/signs/cs9.jpg",
+    "explanation": "This is the narrow road ahead sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs9",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs10",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Road widens ahead",
+      "Unguarded railway crossing ahead (200 m)",
+      "Cycle Crossing",
+      "Cross Road"
+    ],
+    "answer": 0,
+    "image": "/signs/cs10.jpg",
+    "explanation": "This is the road widens ahead sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs10",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs11",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "School Ahead",
+      "Left Hair Pin Bend",
+      "Narrow Bridge",
+      "Roundabout"
+    ],
+    "answer": 2,
+    "image": "/signs/cs11.jpg",
+    "explanation": "This is the narrow bridge sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs11",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs12",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Cross Road",
+      "Slippery Road",
+      "Guarded railway crossing ahead (50–100 m)",
+      "Left Hair Pin Bend"
+    ],
+    "answer": 1,
+    "image": "/signs/cs12.jpg",
+    "explanation": "This is the slippery road sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs12",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs13",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Pedestrian Crossing",
+      "Hump or Rough Road",
+      "Loose Gravel",
+      "Left Hand Curve"
+    ],
+    "answer": 2,
+    "image": "/signs/cs13.jpg",
+    "explanation": "This is the loose gravel sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs13",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs14",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Side Road Right",
+      "Cycle Crossing",
+      "Hump or Rough Road",
+      "Pedestrian Crossing"
+    ],
+    "answer": 1,
+    "image": "/signs/cs14.jpg",
+    "explanation": "This is the cycle crossing sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs14",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs15",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Narrow Road Ahead",
+      "Narrow Bridge",
+      "Pedestrian Crossing",
+      "Barrier Ahead"
+    ],
+    "answer": 2,
+    "image": "/signs/cs15.jpg",
+    "explanation": "This is the pedestrian crossing sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs15",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs16",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Unguarded railway crossing ahead (200 m)",
+      "Road widens ahead",
+      "Men at Work",
+      "School Ahead"
+    ],
+    "answer": 3,
+    "image": "/signs/cs16.jpg",
+    "explanation": "This is the school ahead sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs16",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs17",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Road widens ahead",
+      "Men at Work",
+      "Cycle Crossing",
+      "Left Hand Curve"
+    ],
+    "answer": 1,
+    "image": "/signs/cs17.jpg",
+    "explanation": "This is the men at work sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs17",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs18",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Barrier Ahead",
+      "Roundabout",
+      "Cattle",
+      "Gap in Median"
+    ],
+    "answer": 2,
+    "image": "/signs/cs18.jpg",
+    "explanation": "This is the cattle sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs18",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs19",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Guarded railway crossing ahead (50–100 m)",
+      "Falling Rocks",
+      "Unguarded railway crossing ahead (200 m)",
+      "Steep Descent"
+    ],
+    "answer": 1,
+    "image": "/signs/cs19.jpg",
+    "explanation": "This is the falling rocks sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs19",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs20",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Guarded railway crossing ahead (50–100 m)",
+      "Ferry",
+      "Unguarded railway crossing ahead (200 m)",
+      "Right Reverse Bend"
+    ],
+    "answer": 1,
+    "image": "/signs/cs20.jpg",
+    "explanation": "This is the ferry sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs20",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs21",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Guarded railway crossing ahead (50–100 m)",
+      "Narrow Bridge",
+      "Cross Road",
+      "Steep Ascent"
+    ],
+    "answer": 2,
+    "image": "/signs/cs21.jpg",
+    "explanation": "This is the cross road sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs21",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs22",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Roundabout",
+      "Gap in Median",
+      "Guarded railway crossing ahead (200 m)",
+      "Right Reverse Bend"
+    ],
+    "answer": 1,
+    "image": "/signs/cs22.jpg",
+    "explanation": "This is the gap in median sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs22",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs23",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Road widens ahead",
+      "Side Road Right",
+      "Cattle",
+      "Unguarded railway crossing ahead (50–100 m)"
+    ],
+    "answer": 1,
+    "image": "/signs/cs23.jpg",
+    "explanation": "This is the side road right sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs23",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs24",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Steep Descent",
+      "Left Hand Curve",
+      "Cycle Crossing",
+      "Side Road Left"
+    ],
+    "answer": 3,
+    "image": "/signs/cs24.jpg",
+    "explanation": "This is the side road left sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs24",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs25",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Unguarded railway crossing ahead (200 m)",
+      "Major Road Ahead",
+      "Y-Intersection",
+      "Slippery Road"
+    ],
+    "answer": 2,
+    "image": "/signs/cs25.jpg",
+    "explanation": "This is the y-intersection sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs25",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs26",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Steep Ascent",
+      "Y-Intersection",
+      "Cross Road",
+      "Unguarded railway crossing ahead (50–100 m)"
+    ],
+    "answer": 1,
+    "image": "/signs/cs26.jpg",
+    "explanation": "This is the y-intersection sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs26",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs27",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Barrier Ahead",
+      "Y-Intersection",
+      "Staggered Intersection",
+      "Roundabout"
+    ],
+    "answer": 1,
+    "image": "/signs/cs27.jpg",
+    "explanation": "This is the y-intersection sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs27",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs28",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "T-Intersection",
+      "Slippery Road",
+      "Steep Ascent",
+      "Men at Work"
+    ],
+    "answer": 0,
+    "image": "/signs/cs28.jpg",
+    "explanation": "This is the t-intersection sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs28",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs29",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Left Hand Curve",
+      "Steep Ascent",
+      "Staggered Intersection",
+      "Right Reverse Bend"
+    ],
+    "answer": 2,
+    "image": "/signs/cs29.jpg",
+    "explanation": "This is the staggered intersection sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs29",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs30",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Staggered Intersection",
+      "Right Hand Curve",
+      "Left Hand Curve",
+      "Guarded railway crossing ahead (50–100 m)"
+    ],
+    "answer": 0,
+    "image": "/signs/cs30.jpg",
+    "explanation": "This is the staggered intersection sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs30",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs31",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Left Reverse Bend",
+      "Gap in Median",
+      "Road widens ahead",
+      "Major Road Ahead"
+    ],
+    "answer": 3,
+    "image": "/signs/cs31.jpg",
+    "explanation": "This is the major road ahead sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs31",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs32",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Major Road Ahead",
+      "Right Hand Curve",
+      "Guarded railway crossing ahead (200 m)",
+      "Loose Gravel"
+    ],
+    "answer": 0,
+    "image": "/signs/cs32.jpg",
+    "explanation": "This is the major road ahead sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs32",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs33",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Roundabout",
+      "Men at Work",
+      "Guarded railway crossing ahead (200 m)",
+      "Pedestrian Crossing"
+    ],
+    "answer": 0,
+    "image": "/signs/cs33.jpg",
+    "explanation": "This is the roundabout sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs33",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs34",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Gap in Median",
+      "Slippery Road",
+      "School Ahead",
+      "Dangerous Dip"
+    ],
+    "answer": 3,
+    "image": "/signs/cs34.jpg",
+    "explanation": "This is the dangerous dip sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs34",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs35",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Hump or Rough Road",
+      "Right Hand Curve",
+      "Pedestrian Crossing",
+      "Loose Gravel"
+    ],
+    "answer": 0,
+    "image": "/signs/cs35.jpg",
+    "explanation": "This is the hump or rough road sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs35",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs36",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Barrier Ahead",
+      "Narrow Bridge",
+      "Right Hand Curve",
+      "Side Road Right"
+    ],
+    "answer": 0,
+    "image": "/signs/cs36.jpg",
+    "explanation": "This is the barrier ahead sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs36",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs37",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Loose Gravel",
+      "T-Intersection",
+      "Unguarded railway crossing ahead (200 m)",
+      "Steep Ascent"
+    ],
+    "answer": 2,
+    "image": "/signs/cs37.jpg",
+    "explanation": "This is the unguarded railway crossing ahead (200 m) sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs37",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs38",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Left Hand Curve",
+      "Falling Rocks",
+      "Unguarded railway crossing ahead (50–100 m)",
+      "Staggered Intersection"
+    ],
+    "answer": 2,
+    "image": "/signs/cs38.jpg",
+    "explanation": "This is the unguarded railway crossing ahead (50–100 m) sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs38",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs39",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "T-Intersection",
+      "Cycle Crossing",
+      "Guarded railway crossing ahead (200 m)",
+      "Narrow Bridge"
+    ],
+    "answer": 2,
+    "image": "/signs/cs39.jpg",
+    "explanation": "This is the guarded railway crossing ahead (200 m) sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs39",
+    "imported_at": "2026-10-23"
+  },
+  {
+    "id": "maharashtra-cs40",
+    "category": "signs",
+    "topic": "Cautionary signs",
+    "prompt": "What does this road sign mean?",
+    "options": [
+      "Barrier Ahead",
+      "Y-Intersection",
+      "Cycle Crossing",
+      "Guarded railway crossing ahead (50–100 m)"
+    ],
+    "answer": 3,
+    "image": "/signs/cs40.jpg",
+    "explanation": "This is the guarded railway crossing ahead (50–100 m) sign, in the cautionary category of the Maharashtra Transport sign catalogue.",
+    "source_url": "https://transport.maharashtra.gov.in/1308/Road-Signs",
+    "source_ref": "maharashtra-cs40",
+    "imported_at": "2026-10-23"
+  }
+]
