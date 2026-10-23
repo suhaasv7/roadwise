@@ -7,3 +7,5 @@ node_modules/
 .DS_Store
 data/signs.html
 data/questions.raw.json
+
+supabase/.temp/
