@@ -20,7 +20,7 @@ export async function POST(request:Request){
   if(!questions.length)return Response.json({error:'No questions to review yet. Complete a test first.'},{status:400});
   for(let i=questions.length-1;i>0;i--){const j=randomInt(i+1);[questions[i],questions[j]]=[questions[j],questions[i]];}
   questions=questions.slice(0,count);
-  const rows=await rest<Attempt[]>('roadwise_attempts',{method:'POST',body:JSON.stringify({session_id:user,mode,total:questions.length,question_ids:questions.map(q=>q.id)})},user);
+  const rows=await rest<Attempt[]>('roadwise_attempts?select=id,mode,status,question_ids,answers,score,total,started_at,completed_at,duration_seconds',{method:'POST',body:JSON.stringify({session_id:user,mode,total:questions.length,question_ids:questions.map(q=>q.id)})},user);
   return Response.json({attempt:rows[0],questions:questions.map(publicQuestion)});
  }catch(e){console.error(e);return Response.json({error:'Could not start your test. Please try again.'},{status:503});}
 }
