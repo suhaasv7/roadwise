@@ -35,3 +35,7 @@ RLS on attempts requires both Lawn's server credential and the matching random b
 ## Later deployment
 
 Use the personal Chrome profile, create a separate Vercel project, connect this GitHub repo and set the three server-side environment variables from `.env.example`. Keep the Lawn secret server-only. Add the domain on Vercel first, then use its exact returned CNAME target in Cloudflare. Do not copy Lawn/Fits DNS targets or change unrelated DNS records.
+
+## Favicon update — 25 October 2026
+
+Added App Router icon.svg, a multi-resolution favicon.ico and a 180px Apple touch icon. All use the existing charcoal/sage slanted-road brand mark. Next.js file metadata adds the icon links automatically. Production build passed.
