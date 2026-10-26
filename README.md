@@ -26,7 +26,8 @@ Lawn Supabase project: `rqdkxgtoccuvuxqkyxzf`. Existing Lawn tables are untouche
 - `roadwise_questions`: the imported question bank, read-only to the application.
 - `roadwise_attempts`: immutable completed test snapshots, scores and elapsed time.
 - Session: random UUID in an HttpOnly, SameSite cookie. Results are linked to this browser, without login. Cookies must be retained to access previous results; this does not sync history across devices.
-- Database RLS requires both Lawn's server-only write credential and the matching session header for every attempt read/write. The browser never receives database credentials.
+- Attempt requests include the browser's session ID in the `x-roadwise-session` header. The application uses `SUPABASE_URL` and `SUPABASE_PUBLISHABLE_KEY`; no Lawn write secret is sent.
+- The original checked-in schema also requires `public.lawn_is_owner()` for attempt access. A database still using that policy needs a separate policy update before secret-free attempt requests can succeed.
 - Correct answers and scoring come from the stored bank. Re-submitting a completed attempt returns the original saved result.
 
 The app reads its checked-in snapshot for learning pages and the seeded database for tests. It never scrapes Parivahan or transport websites at runtime. Sign images are served locally.

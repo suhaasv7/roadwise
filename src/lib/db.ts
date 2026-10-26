@@ -5,10 +5,7 @@ const key=process.env.SUPABASE_PUBLISHABLE_KEY;
 export async function rest<T>(path:string, init:RequestInit={}, session?:string):Promise<T> {
  if (!url||!key) throw new Error('The database is not configured.');
  const headers:Record<string,string>={apikey:key,'Content-Type':'application/json',Prefer:'return=representation'};
- if(session){
-  if(!process.env.LAWN_WRITE_SECRET)throw new Error('Saving is not configured.');
-  headers['x-lawn-secret']=process.env.LAWN_WRITE_SECRET;headers['x-roadwise-session']=session;
- }
+ if(session)headers['x-roadwise-session']=session;
  const r=await fetch(`${url}/rest/v1/${path}`,{...init,headers,cache:'no-store',signal:AbortSignal.timeout(15000)});
  if(!r.ok){console.error('Roadwise database request failed',r.status,path.split('?')[0]);throw new Error('The database is temporarily unavailable. Please try again.');}
  return r.json();
